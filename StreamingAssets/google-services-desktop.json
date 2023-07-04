@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066907706580",
+    "project_id": "dressup-c1843",
+    "storage_bucket": "dressup-c1843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066907706580:android:04277e44bbcd1cea880741",
+        "android_client_info": {
+          "package_name": "com.ant.dressup.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066907706580-7ruhvgbfc3p3g685t0fvpttp9hovndfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj7Gecze0YXjPVlh98kDIfHfJjUynr8lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066907706580-7ruhvgbfc3p3g685t0fvpttp9hovndfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
